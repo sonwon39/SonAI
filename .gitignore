@@ -1,0 +1,8 @@
+# Claude Code local overrides
+.claude/settings.local.json
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
